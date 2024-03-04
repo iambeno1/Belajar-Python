@@ -1,2 +1,1 @@
 # Python Basics
-# Belajar Python
