@@ -1,2 +1,2 @@
 # Python Basics
-Repo untuk belajar pemrograman Python dasar.
+Repo untuk belajar pemrograman Python dasar
